@@ -157,3 +157,5 @@ jobs:
           push: true
           # Тут вместо username должен быть ваш логин на Docker Hub
           tags: i516/taski_gateway:latest
+
+
